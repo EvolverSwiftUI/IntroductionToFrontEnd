@@ -73,6 +73,13 @@ Using React Native and Flutter
 # HTML Element Syntax
  
  <img width="844" alt="Screen Shot 2022-02-25 at 5 43 53 PM" src="https://user-images.githubusercontent.com/93422294/155713763-1ba93867-ccd7-4959-825d-77f2d9371c2d.png" width="1688" height="500">
+ 
+ <br>
+ HTML element has 3 parts
+ <br>
+ 1. Start Tag
+ 2. Content
+ 3. End Tag
 
  
  

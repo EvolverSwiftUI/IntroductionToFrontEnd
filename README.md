@@ -21,9 +21,9 @@ Fundamentals in programming
  eg: Changing colors, font, sizes, images and texts etc.
 
 # Breaking down into small parts
-Break into small parts
+Break into small parts.
 Pick one part and write code for that part and test the output.
-Repeat the same for every part
+Repeat the same for every part.
 
 # FrondEnd Tech Stack
 1. HTML
@@ -37,8 +37,10 @@ Repeat the same for every part
 2. Responsive Websites
 3. Dynamic Websitess
 4. Mobile Apps
+<br>
     iOS Apps
-    Android Apps
+<br>
+   Android Apps
 
 # Creating a single webpage
 1. Add heading

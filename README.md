@@ -39,9 +39,9 @@ Repeat the same for every part.
 4. Mobile Apps
 
 <ul>
-    <li>iOS Apps<li>
-    <li>Android Apps<li>
-<\ul>
+    <li>iOS Apps
+    <li>Android Apps
+<ul>
 
 # Creating a single webpage
 1. Add heading

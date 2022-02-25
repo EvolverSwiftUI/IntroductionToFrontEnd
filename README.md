@@ -33,3 +33,97 @@ Tehere are 4 key araes in programming
 4. Mobile Apps
   1. iOS Apps
   2. Android Apps
+
+# Creating a single webpage
+1. Add heading
+2. Add Paragraph
+3. Add Button
+
+# Static Websites
+Using HTML and CSS
+ HTML to structure the layout
+ CSS to beautify the layout.
+
+# Responsive Websites
+Using HTML and CSS
+Using Bootstrap
+ It will make responsive from desktop screen to taplet screens to mobile screens.
+ meaning adjusting automatically the layout to any device.
+
+# Dynamic Websites
+Using HTML and CSS
+Using Bootstrap
+Using Javascript and ReactJS
+  Make some parts of website reload content dynamicaaly without reloading entire website/webpage.
+  
+# Mobile Apps
+Using React Native and Flutter
+ Make a cross platform mobile apps 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

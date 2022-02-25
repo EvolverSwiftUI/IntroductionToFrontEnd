@@ -110,7 +110,20 @@ Using React Native and Flutter
 # NOTE
 By using HTML element attributes, we can add aditional information to that same HTML element.
   <br>
-like text-alignment, color to text, font to text, font-weight to text, underline to text.....etc  
+like text-alignment, color to text, font to text, font-weight to text, underline to text.....etc.
+  <br>
+Eevery HTML element will take a rectangular box shape
+  <br>
+  
+# CSS Box Model
+  1. Every HTML elemet will take a rectangular box shape,
+  2. So each box has following properties.
+   1. Height
+   2. Width
+   3. Padding
+   4. Border
+   5. Margin
+  
 
 
   

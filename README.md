@@ -31,8 +31,8 @@ Tehere are 4 key araes in programming
 2. Responsive Websites
 3. Dynamic Websitess
 4. Mobile Apps
-  1. iOS Apps
-  2. Android Apps
+    iOS Apps
+    Android Apps
 
 # Creating a single webpage
 1. Add heading

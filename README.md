@@ -127,7 +127,6 @@ Eevery HTML element will take a rectangular box shape
    <br>
   
 # Intro Bootstrap
-<br>
 It is large collection of code snippets related to html, css and javascript.
 
   

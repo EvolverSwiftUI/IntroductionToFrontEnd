@@ -37,10 +37,11 @@ Repeat the same for every part.
 2. Responsive Websites
 3. Dynamic Websitess
 4. Mobile Apps
-<br>
+
+<li>
     iOS Apps
-<br>
-   Android Apps
+    Android Apps
+</li>
 
 # Creating a single webpage
 1. Add heading

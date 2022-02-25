@@ -18,3 +18,18 @@ Tehere are 4 key araes in programming
 # Tweaking the code
  Making small changes in the code to understand software behaviour.
  eg: Changing colors, font, sizes, images and texts etc.
+
+# FrondEnd Tech Stack
+1. HTML
+2. CSS
+3. JavaScript
+4. ReactJS
+5. AngularJS
+
+# FrontEnd
+1. Static Websites
+2. Responsive Websites
+3. Dynamic Websitess
+4. Mobile Apps
+  1. iOS Apps
+  2. Android Apps

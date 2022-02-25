@@ -77,10 +77,11 @@ Using React Native and Flutter
  <br>
  HTML element has 3 parts
  <br>
- 1. Start Tag
- 2. Content
- 3. End Tag
-
+ <ol>
+   <li>Start Tag
+   <li>Content
+   <li>End Tag
+ <ol>
  
  
  

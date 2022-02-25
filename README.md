@@ -118,11 +118,13 @@ Eevery HTML element will take a rectangular box shape
 # CSS Box Model
   1. Every HTML elemet will take a rectangular box shape,
   2. So each box has following properties.
-   1. Height
-   2. Width
-   3. Padding
-   4. Border
-   5. Margin
+   <br>
+    1. Height
+    2. Width
+    3. Padding
+    4. Border
+    5. Margin
+   <br>
   
 
 

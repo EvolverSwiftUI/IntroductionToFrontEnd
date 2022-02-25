@@ -38,10 +38,10 @@ Repeat the same for every part.
 3. Dynamic Websitess
 4. Mobile Apps
 
-<li>
-    iOS Apps
-    Android Apps
-</li>
+<ul>
+    <li>iOS Apps<\li>
+    <li>Android Apps<\li>
+<\ul>
 
 # Creating a single webpage
 1. Add heading

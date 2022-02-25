@@ -1,10 +1,11 @@
 # IntroductionToFrontEnd
 
-Tehere are 4 key araes in programming
+Fundamentals in programming
 1. Syntax
 2. Bug
 3. Debugging
 4. Tweaking the code
+5. Breaking down into small parts
 
 # Syntax
  The grammar of that language.
@@ -18,6 +19,11 @@ Tehere are 4 key araes in programming
 # Tweaking the code
  Making small changes in the code to understand software behaviour.
  eg: Changing colors, font, sizes, images and texts etc.
+
+# Breaking down into small parts
+Break into small parts
+Pick one part and write code for that part and test the output.
+Repeat the same for every part
 
 # FrondEnd Tech Stack
 1. HTML

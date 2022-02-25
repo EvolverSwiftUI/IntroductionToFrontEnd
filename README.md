@@ -102,6 +102,15 @@ Using React Native and Flutter
   <br>
   
   <img width="614" alt="Screen Shot 2022-02-25 at 7 13 51 PM" src="https://user-images.githubusercontent.com/93422294/155725632-4cbf520d-aded-4de7-a8f5-79ccb2a509a3.png">
+  
+# Combining HTML and CSS
+1. Use link HTML elemet to import the css file to html file
+2. Use HTML element attributes to apply css containing styles to HTML content
+
+# NOTE
+By using HTML element attributes, we can add aditional information to that same HTML element.
+  <br>
+like text-alignment, color to text, font to text, font-weight to text, underline to text.....etc  
 
 
   

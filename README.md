@@ -87,6 +87,22 @@ Using React Native and Flutter
  Indide content we can put another html element also like below way.
 <br>  
  <img width="908" alt="Screen Shot 2022-02-25 at 5 51 06 PM" src="https://user-images.githubusercontent.com/93422294/155714548-4491c4fc-ba56-462f-8855-6f669cd233ae.png">
+  
+# Intro to CSS (Cascading Style Sheets)  
+1. file with extension as .css
+2. CSS file is collection or list of rulesets.
+3. Each ruleset has selector.
+4. Each selector has property and value pairs inside a curly braces.
+  <br>
+  eg: selector {  <br>
+    property: Value,  <br>
+    property: Value,  <br>
+    property: Value,  <br>
+  }  <br>
+  <br>
+
+  
+  
 
  
  

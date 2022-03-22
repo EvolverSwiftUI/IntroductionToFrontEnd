@@ -125,6 +125,13 @@ Eevery HTML element will take a rectangular box shape
   
 # Intro Bootstrap
 It is large collection of code snippets related to html, css and javascript.
+  
+# Dynamic Web Applications
+  Building Dynamic web applications mainly involves:
+  1. Client Server Communication
+  2. Manipulating HTML and CSS
+  3. Writing Application Logic
+  
 
   
   

@@ -132,7 +132,7 @@ It is large collection of code snippets related to html, css and javascript.
   2. Manipulating HTML and CSS
   3. Writing Application Logic
   <br>
-  We can achieve those above 3 points 
+  We can achieve those above 3 points <br>
   1. by using JavaScript <br>
   2. by using Web Assembly<br>
   

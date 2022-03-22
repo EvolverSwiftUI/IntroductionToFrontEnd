@@ -131,6 +131,10 @@ It is large collection of code snippets related to html, css and javascript.
   1. Client Server Communication
   2. Manipulating HTML and CSS
   3. Writing Application Logic
+  <br>
+  We can achieve those above 3 points 
+  1. by using JavaScript
+  2. by using Web Assembly
   
 
   

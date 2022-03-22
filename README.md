@@ -133,8 +133,8 @@ It is large collection of code snippets related to html, css and javascript.
   3. Writing Application Logic
   <br>
   We can achieve those above 3 points 
-  1. by using JavaScript
-  2. by using Web Assembly
+  1. by using JavaScript <br>
+  2. by using Web Assembly<br>
   
 
   

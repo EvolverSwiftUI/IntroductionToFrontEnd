@@ -136,6 +136,9 @@ It is large collection of code snippets related to html, css and javascript.
   1. by using JavaScript <br>
   2. by using Web Assembly<br>
   
+  
+  feqwgwg
+  
 
   
   

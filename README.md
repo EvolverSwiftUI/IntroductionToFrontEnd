@@ -26,9 +26,9 @@ Pick one part and write code for that part and test the output.
 Repeat the same for every part.
 
 # FrondEnd Tech Stack
-1. HTML
-2. CSS
-3. JavaScript
+1. HTML - provides the basic structure for the web pages 
+2. CSS - is used for styling
+3. JavaScript - is used for dynamic and interactive user experiences on web page
 4. ReactJS
 5. AngularJS
 
